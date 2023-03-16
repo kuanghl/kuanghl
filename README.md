@@ -40,7 +40,7 @@
 <p>&emsp;&emsp;....</p>
 <p>&emsp;&emsp;....</p>
 <p><strong>&emsp;&emsp;linux embedded/ti cms esp st mcu/gpu/soc/hardware</strong></p>
-<p>&emsp;&emsp;go runing</p>
+<p>&emsp;&emsp;长风破浪会有时，直挂云帆济沧海。我开始得太晚了，但总不算太迟。春华秋实，努力一定会有收获，一枚学渣正在悄悄蜕变...</p>
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
