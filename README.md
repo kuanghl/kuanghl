@@ -40,18 +40,9 @@
 <p>&emsp;&emsp;....</p>
 <p>&emsp;&emsp;....</p>
 <p><strong>&emsp;&emsp;linux embedded/ti cms esp st mcu/gpu/soc/hardware</strong></p>
-<p>&emsp;&emsp;长风破浪会有时，直挂云帆济沧海。我开始得太晚了，但总不算太迟。春华秋实，努力一定会有收获，一枚学渣正在悄悄蜕变...</p>
+<p>&emsp;&emsp;---------------------------------------------------------------------------------------------------------------------------------</p>
 
-```text
-🕑︎ Time Zone: Asia/Shanghai
 
-🔥 Editors: 
-VS Code                  47 hrs 48 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    46 hrs 27 mins      ████████████████████████░   97.18 % 
-Windows                  1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-```
 
 </td></tr>
   
