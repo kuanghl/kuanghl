@@ -17,8 +17,8 @@
     <a href="https://www.youtube.com/channel/UC4nDk0V8I1c6m3CIo0F2LIQ"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
     <a href="https://box.sunguoqi.com/weixin_mp"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+    <a href="https://blog.csdn.net/weixin_40466525/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+    <a href="https://www.zhihu.com/people/tian-zong-zhi-cai-97/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访客数统计徽标 -->
     <img src="https://visitor-badge.glitch.me/badge?page_id=kuanghl" alt="访客统计" />
   </div>
@@ -52,7 +52,7 @@
 <div align="center" >
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
+<img src="https://github.com/kuanghl/kuanghl/blob/master/picture/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
 <!--  skill badge 技能徽章 -->
 💪 正在学习
@@ -110,14 +110,14 @@
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
 <!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
+<img height="100" width="100" src="https://raw.githubusercontent.com/kuanghl/kuanghl/master/picture/html.webp">
 <img height="100" width="100" src="https://raw.githubusercontent.com/kuanghl/kuanghl/master/picture/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/react.webp">
-<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
+<img height="100" width="100" src="https://raw.githubusercontent.com/kuanghl/kuanghl/master/picture/vscode.webp">
+<img height="100" width="100" src="https://raw.githubusercontent.com/kuanghl/kuanghl/master/picture/react.webp">
+<img height="95" width="95" src="https://raw.githubusercontent.com/kuanghl/kuanghl/master/picture/vue.webp">
+<img height="100" width="100" src="https://raw.githubusercontent.com/kuanghl/kuanghl/master/picture/python.webp">
+<img height="100" width="100" src="https://raw.githubusercontent.com/kuanghl/kuanghl/master/picture/js.webp">
+<img height="100" width="100" src="https://raw.githubusercontent.com/kuanghl/kuanghl/master/picture/github.webp">
 
 <!-- just img 图片 -->
 
