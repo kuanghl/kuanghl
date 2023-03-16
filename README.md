@@ -42,21 +42,23 @@
 <p><strong>&emsp;&emsp;linux embedded/ti cms esp st mcu/gpu/soc/hardware</strong></p>
 <p>&emsp;&emsp;go runing</p>
 
---------------------------------------------------------------------------------------------------------------------------------------------------
-</td></tr>
-  
-<tr><td>
-  
-### 🏢 Work Experience
+```text
+🕑︎ Time Zone: Asia/Shanghai
 
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
+💬 Programming Languages: 
+Vue.js                   45 hrs 13 mins      ████████████████████████░   94.58 % 
+HTML                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+JavaScript               42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+SCSS                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+CSS                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
-- [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— Now
-  
-  - 工作岗位：实习生
-  - 工作内容：前端开发
-  - 工作方向：一站式数据治理与开发
-  
+🔥 Editors: 
+VS Code                  47 hrs 48 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      46 hrs 27 mins      ████████████████████████░   97.18 % 
+Windows                  1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Linux
 
 </td></tr>
   
