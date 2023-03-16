@@ -33,7 +33,7 @@
 <table>
 <tr><td>
 
-<img align="right" width="250" src="https://github.com/kuanghl/kuanghl/blob/master/picture/hi.gif" alt="Man Lifting Weights" width="250" height="250"/>
+<img align="right" width="250" src="https://github.com/kuanghl/kuanghl/blob/master/picture/hi.gif"/>
 
 <p>&emsp;&emsp;kuanghl</p>
 <p>&emsp;&emsp;JNU --2021-06-30</p>
@@ -44,6 +44,22 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 </td></tr>
+  
+<tr><td>
+  
+### 🏢 Work Experience
+
+<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
+
+- [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— Now
+  
+  - 工作岗位：实习生
+  - 工作内容：前端开发
+  - 工作方向：一站式数据治理与开发
+  
+
+</td></tr>
+  
 </table>
 
 <!-- ########################################## 分割 ########################################## -->
