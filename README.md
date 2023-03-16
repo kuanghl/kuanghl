@@ -35,12 +35,13 @@
 
 <img align="right" width="250" src="https://github.com/kuanghl/kuanghl/blob/master/picture/hi.gif"/>
 
+- [x] profiling
 <p>&emsp;&emsp;kuanghl</p>
 <p>&emsp;&emsp;JNU --2021-06-30</p>
 <p>&emsp;&emsp;....</p>
 <p>&emsp;&emsp;....</p>
 <p><strong>&emsp;&emsp;linux embedded/ti cms esp st mcu/gpu/soc/hardware</strong></p>
-<p>&emsp;&emsp;-----------------------------------------------------------------------------------------------------------------------------------------------------</p>
+<p>&emsp;&emsp;----------------------------------------------------------------------------------------------------------------------------------------------------</p>
 
 
 
