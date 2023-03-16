@@ -33,7 +33,7 @@
 <table>
 <tr><td>
 
-<img align="right" width="250" src="https://github.com/kuanghl/kuanghl/blob/master/picture/hi.gif" />
+<img align="right" width="250" src="https://github.com/kuanghl/kuanghl/blob/master/picture/hi.gif" alt="Man Lifting Weights" width="250" height="250"/>
 
 <p>&emsp;&emsp;kuanghl</p>
 <p>&emsp;&emsp;JNU --2021-06-30</p>
