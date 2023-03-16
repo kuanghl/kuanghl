@@ -35,14 +35,10 @@
 
 ### 🤺 About Me
 <img align="right" width="250" src="https://github.com/kuanghl/kuanghl/blob/master/picture/hi.gif" />
-
- __kuang__
-<p>&emsp;&emsp;文字</p>
-<p>&emsp;&emsp;文字</p>
-<p>&emsp;&emsp;文字</p>
-<p>&emsp;&emsp;文字</p>
-<p><strong>&emsp;&emsp;文字</strong></p>
-<p>&emsp;&emsp;文字</p>
+- [ ] kuanghl
+- [ ] JNU -- 2021-06-30
+- [ ] __linux embedded/mcu/gpu/soc__
+- [ ] runing
 --------------------------------------------------------------------------------------------------------------------------------------------------
 </td></tr>
 </table>
