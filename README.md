@@ -45,20 +45,13 @@
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
-💬 Programming Languages: 
-Vue.js                   45 hrs 13 mins      ████████████████████████░   94.58 % 
-HTML                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-JavaScript               42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-SCSS                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-CSS                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-
 🔥 Editors: 
 VS Code                  47 hrs 48 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      46 hrs 27 mins      ████████████████████████░   97.18 % 
+Linux                    46 hrs 27 mins      ████████████████████████░   97.18 % 
 Windows                  1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-Linux
+```
 
 </td></tr>
   
