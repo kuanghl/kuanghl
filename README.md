@@ -34,7 +34,7 @@
 <tr><td>
 
 ### 🤺 About Me
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
+<img align="right" width="250" src="https://github.com/kuanghl/kuanghl/blob/master/picture/hi.gif" />
 
 <p>&emsp;&emsp;文字</p>
 <p>&emsp;&emsp;文字</p>
@@ -42,12 +42,12 @@
 <p>&emsp;&emsp;文字</p>
 <p><strong>&emsp;&emsp;文字</strong></p>
 <p>&emsp;&emsp;文字</p>
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------
 </td></tr>
 </table>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://github.com/kuanghl/kuanghl/blob/master/picture/hr.gif" />
 
 <div align="center" >
 
@@ -125,7 +125,7 @@
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://github.com/kuanghl/kuanghl/blob/master/picture/hr.gif" />
 
 <div align="center" >
   
@@ -138,7 +138,7 @@
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://github.com/kuanghl/kuanghl/blob/master/picture/hr.gif" />
 
 <div align="center">
 
@@ -146,7 +146,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuanghl&theme=dark&hide_border=true" />
   
  <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://github.com/kuanghl/kuanghl/blob/master/picture/hr.gif" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
@@ -158,13 +158,13 @@
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://github.com/kuanghl/kuanghl/blob/master/picture/hr.gif" />
 
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
 
 <!-- just img 图片 -->
-<img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
+<img width="36%" src="https://github.com/kuanghl/kuanghl/blob/master/picture/githubgif.gif" />
 
 </div>
 
