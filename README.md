@@ -144,11 +144,11 @@
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuanghl&theme=dark&hide_border=true" />
-  
- <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://github.com/kuanghl/kuanghl/blob/master/picture/hr.gif" />
 
 </div>
+
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://github.com/kuanghl/kuanghl/blob/master/picture/hr.gif" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
