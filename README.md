@@ -30,7 +30,14 @@
 
 #  🙋 Hello
 
-<table style="width: 100%">
+
+<style>
+table th:first-of-type {
+    width: 100%;
+}
+</style>
+
+<table>
 <tr>
   <td bgcolor="Lavender">
 
