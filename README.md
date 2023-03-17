@@ -30,7 +30,7 @@
 
 #  🙋 Hello
 
-<table border="1" width="400" align="center">
+<table width="400" align="center">
 <tr>
   <td bgcolor="Lavender">
 
@@ -39,10 +39,10 @@
   - [x] profiling
   - [ ] kuanghl
   - [ ] JNU --2021-06-30
+  - [ ] ....
+  - [ ] ....
+  - [ ] ....
   - [ ] linux embedded/ti cms esp st mcu/gpu/soc/hardware
-  - [ ] ....
-  - [ ] ....
-  - [ ] ....
   </td>
 </tr>
   
