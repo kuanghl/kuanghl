@@ -30,9 +30,9 @@
 
 #  🙋 Hello
 
-<table width="600px" align="center">
+<table style='width:100%' align="center">
 <tr>
-  <td style="width: 600px" >
+  <td style='width:100%'>
 
   <img align="right" width="250" src="https://github.com/kuanghl/kuanghl/blob/master/picture/hi.gif"/>
 
