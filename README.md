@@ -31,19 +31,19 @@
 #  🙋 Hello
 
 <table>
-<tr><td>
+<tr>
+  <td bgcolor="MistyRose">
 
-<img align="right" width="250" src="https://github.com/kuanghl/kuanghl/blob/master/picture/hi.gif"/>
+  <img align="right" width="250" src="https://github.com/kuanghl/kuanghl/blob/master/picture/hi.gif"/>
 
-- [x] profiling
-- [ ] kuanghl
-- [ ] JNU --2021-06-30
-- [ ] ....
-- [ ] ....
-- [ ] linux embedded/ti cms esp st mcu/gpu/soc/hardware
-==--==
-  
-</td></tr>
+  - [x] profiling
+  - [ ] kuanghl
+  - [ ] JNU --2021-06-30
+  - [ ] ....
+  - [ ] ....
+  - [ ] linux embedded/ti cms esp st mcu/gpu/soc/hardware
+  </td>
+</tr>
   
 </table>
 
