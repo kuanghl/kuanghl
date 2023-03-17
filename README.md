@@ -30,7 +30,7 @@
 
 #  🙋 Hello
 
-<table width="400" align="center">
+<table width="1000" align="center">
 <tr>
   <td bgcolor="Lavender">
 
