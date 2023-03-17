@@ -32,7 +32,7 @@
 
 <table>
 <tr>
-  <td bgcolor="MistyRose">
+  <td bgcolor="red">
 
   <img align="right" width="250" src="https://github.com/kuanghl/kuanghl/blob/master/picture/hi.gif"/>
 
