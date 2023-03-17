@@ -42,6 +42,10 @@
   - [ ] ....
   - [ ] ....
   - [ ] linux embedded/ti cms esp st mcu/gpu/soc/hardware
+  - [ ] 
+  <div style="width: 100%;height:4px;position: relative;background-color: #a79d91;margin: 2% 0 2% 0;text-align:center;">
+     <span style="display:inline-block;background-color: #FFF;padding: 0 20px;color: #303133;transform: translateY(-50%);font-size: 23px;">我是中间的文字</span>
+  </div>
   </td>
 </tr>
   
