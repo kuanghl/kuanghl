@@ -50,6 +50,29 @@
 <img width="200%" src="https://github.com/kuanghl/kuanghl/blob/master/picture/hr.gif" />
 
 <div align="center" >
+  
+<!-- GitHub 奖杯🏆 -->
+<img  src="https://github-profile-trophy.vercel.app/?username=kuanghl&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
+
+<!-- GitHub 数据统计 -->
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kuanghl&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kuanghl&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
+</div>
+
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://github.com/kuanghl/kuanghl/blob/master/picture/hr.gif" />
+
+<div align="center">
+
+<!-- github-readme-streak-stats 连续提交代码天数记录 -->
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuanghl&theme=dark&hide_border=true" />
+
+</div>
+
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://github.com/kuanghl/kuanghl/blob/master/picture/hr.gif" />
+
+<div align="center" >
 
 <!-- just img 图片 -->
 <img src="https://github.com/kuanghl/kuanghl/blob/master/picture/man.png" alt="Man Lifting Weights" width="250" height="250" />
@@ -120,31 +143,6 @@
 <img height="100" width="100" src="https://raw.githubusercontent.com/kuanghl/kuanghl/master/picture/github.webp">
 
 <!-- just img 图片 -->
-
-
-</div>
-
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://github.com/kuanghl/kuanghl/blob/master/picture/hr.gif" />
-
-<div align="center" >
-  
-<!-- GitHub 奖杯🏆 -->
-<img  src="https://github-profile-trophy.vercel.app/?username=kuanghl&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
-
-<!-- GitHub 数据统计 -->
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kuanghl&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kuanghl&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
-</div>
-
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://github.com/kuanghl/kuanghl/blob/master/picture/hr.gif" />
-
-<div align="center">
-
-<!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuanghl&theme=dark&hide_border=true" />
-
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
