@@ -32,7 +32,7 @@
 
 <table width="600px" align="center">
 <tr>
-  <td style="width: 600px;" align="center">
+  <td style="width: 600px" >
 
   <img align="right" width="250" src="https://github.com/kuanghl/kuanghl/blob/master/picture/hi.gif"/>
 
