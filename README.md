@@ -42,13 +42,6 @@
 - [ ] ....
 - [ ] linux embedded/ti cms esp st mcu/gpu/soc/hardware
 
-<!-- GitHub Activity Graph GitHub 活动图 -->
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=kuanghl&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
-  </tr>
-</table>
-
 </td></tr>
   
 </table>
@@ -156,6 +149,13 @@
 <img width="200%" src="https://github.com/kuanghl/kuanghl/blob/master/picture/hr.gif" />
 
 </div>
+
+<!-- GitHub Activity Graph GitHub 活动图 -->
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=kuanghl&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
+  </tr>
+</table>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://github.com/kuanghl/kuanghl/blob/master/picture/hr.gif" />
