@@ -8,8 +8,7 @@
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511090413239-480807774.gif" /><br>
-
+  ![img](./picture/coding.gif)
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
@@ -25,8 +24,8 @@
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <img src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511090514807-1769885855.svg" />
-
+  <img src="./picture/github-contribution-grid-snake-dark.svg" />  
+ 
 </div>
 
 #  🙋 Hello
@@ -35,7 +34,7 @@
 <tr>
   <td style='width:100%'>
 
-  <img align="right" width="250" src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511090548949-1930608399.gif"/>
+  <img align="right" width="250" src="./picture/hi.gif"/>
 
   - [x] profiling
   - [ ] kuanghl
@@ -50,7 +49,7 @@
 </table>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511090627576-1588323300.gif" />
+<img width="200%" src="./picture/hr.gif" />
 
 <div align="center" >
   
@@ -63,7 +62,7 @@
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511090627576-1588323300.gif" />
+<img width="200%" src="./picture/hr.gif" />
 
 <div align="center">
 
@@ -73,12 +72,12 @@
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511090627576-1588323300.gif" />
+<img width="200%" src="./picture/hr.gif" />
 
 <div align="center" >
 
 <!-- just img 图片 -->
-<img src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511090751428-497770275.png" alt="Man Lifting Weights" width="250" height="250" />
+<img src="./picture/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
 <!--  skill badge 技能徽章 -->
 💪 正在学习
@@ -123,34 +122,34 @@
 <img src="https://skillicons.dev/icons?i=all" /><br>
 <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
 
-<!--svg -->
-<img src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511094903743-447431579.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511094927332-832679743.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511094951694-683716589.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511095020539-800146170.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511095037306-2122024851.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
-<img src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511095058480-531939458.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511095143322-244353232.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511095206498-876068228.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511095221199-902930816.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511095241447-1136059853.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511095258610-707749919.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
+<!-- svg -->
+<img src="./picture/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="./picture/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="./picture/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="./picture/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+<img src="./picture/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
+<img src="./picture/redux-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+<img src="./picture/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+<img src="./picture/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+<img src="./picture/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="./picture/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="./picture/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
 <!-- gif -->
-<img height="100" width="100" src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511093520555-1392328449.webp">
-<img height="100" width="100" src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511093539057-1525950997.webp">
-<img height="100" width="100" src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511093600855-82396909.webp">
-<img height="100" width="100" src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511093623846-1180782291.webp">
-<img height="95" width="95" src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511093642379-800449029.webp">
-<img height="100" width="100" src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511093703666-1488400203.webp">
-<img height="100" width="100" src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511093726252-1808513351.webp">
-<img height="100" width="100" src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511093745670-560302859.webp">
+<img height="100" width="100" src="./picture/html.webp">
+<img height="100" width="100" src="./picture/cssgif.webp">
+<img height="100" width="100" src="./picture/vscode.webp">
+<img height="100" width="100" src="./picture/react.webp">
+<img height="95" width="95" src="./picture/vue.webp">
+<img height="100" width="100" src="./picture/python.webp">
+<img height="100" width="100" src="./picture/js.webp">
+<img height="100" width="100" src="./picture/github.webp">
 
 <!-- just img 图片 -->
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511090627576-1588323300.gif" />
+<img width="200%" src="./picture/hr.gif" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
@@ -160,13 +159,12 @@
 </table>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511090627576-1588323300.gif" />
+<img width="200%" src="./picture/hr.gif" />
 
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
 
 <!-- just img 图片 -->
-<img width="36%" src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511093853934-2046783578.gif" />
+<img width="36%" src="./picture/githubgif.gif" />
 
 </div>
-
