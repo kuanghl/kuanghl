@@ -69,11 +69,12 @@
 <img width="200%" src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511090627576-1588323300.gif" />
 
 <div align="center">
-
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuanghl&theme=dark&hide_border=true" />
-
 </div>
+<a href="/">
+  <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuanghl&theme=github">
+</a>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511090627576-1588323300.gif" />
