@@ -162,7 +162,7 @@
 </table>
 
 <!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kuanghl" width="auto"></img>
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=hlkuang" width="auto"></img>
 
 
 <!-- ########################################## 分割 ########################################## -->
