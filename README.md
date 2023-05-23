@@ -155,7 +155,7 @@
 <img width="200%" src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511090627576-1588323300.gif" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kuanghl&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kuanghl&theme=dracula)
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511090627576-1588323300.gif" />
