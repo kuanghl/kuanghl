@@ -3,8 +3,8 @@ on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
+  # (optional) Run workflow when pushing on master
+  push: {branches: ["master"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
