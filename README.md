@@ -154,12 +154,6 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511090627576-1588323300.gif" />
 
-<!-- GitHub Activity Graph GitHub 活动图 -->
-<table align="center">
-  <tr>
-    <td><img src="https://activity-graph.herokuapp.com/graph?username=kuanghl&theme=minimal&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
-  </tr>
-</table>
 
 <!--   profile-green-animate -->
 ![img](./profile-3d-contrib/profile-green-animate.svg)
