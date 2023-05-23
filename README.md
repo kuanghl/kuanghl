@@ -167,6 +167,10 @@
 <img width="36%" src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511093853934-2046783578.gif" />
 </div>
 
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=kuanghl&theme=xcode" />
+</div>
+
 <!-- kuanghl metrics -->
 <div align="center">
     <img src="https://metrics.lecoq.io/kuanghl?template=classic&config.timezone=Asia%2FShanghai">
