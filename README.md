@@ -27,7 +27,7 @@
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <img src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511090514807-1769885855.svg" />
-  <svg stroke="black" src="https://raw.githubusercontent.com/kuanghl/kuanghl/master/assets/github-contribution-grid-snake.svg" />
+  <svg src="https://raw.githubusercontent.com/kuanghl/kuanghl/master/assets/github-contribution-grid-snake.svg" />
 </div>
 
 #  🙋 Hello
