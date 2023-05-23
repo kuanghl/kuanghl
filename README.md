@@ -70,7 +70,7 @@
 
 <div align="center">
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuanghl&theme=dark&hide_border=true" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuanghl&theme=radical&hide_border=true" />
 <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuanghl&theme=github" />
 </div>
 
