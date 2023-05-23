@@ -161,6 +161,9 @@
   </tr>
 </table>
 
+<!--  2d history skills -->
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb" width="auto"></img>
+
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511090627576-1588323300.gif" />
