@@ -156,18 +156,20 @@
 
 <!--   profile-green-animate -->
 ![img](./profile-3d-contrib/profile-green-animate.svg)
-<div align="center">
-    <img src="https://metrics.lecoq.io/kuanghl?template=classic&config.timezone=Asia%2FShanghai">
-</div>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511090627576-1588323300.gif" />
 
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
-
 <!-- just img 图片 -->
 <img width="36%" src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511093853934-2046783578.gif" />
-
 </div>
+
+<!-- kuanghl metrics -->
+<div align="center">
+    <img src="https://metrics.lecoq.io/kuanghl?template=classic&config.timezone=Asia%2FShanghai">
+</div>
+
+
 
