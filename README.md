@@ -161,8 +161,8 @@
   </tr>
 </table>
 
-<!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=hlkuang" width="auto"></img>
+<!--   profile-green-animate -->
+![img](./profile-3d-contrib/profile-green-animate.svg)
 
 
 <!-- ########################################## 分割 ########################################## -->
