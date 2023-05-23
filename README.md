@@ -45,7 +45,7 @@
   - [ ] ....
   - [ ] ....
   - [ ] linux embedded/ti cms esp st mcu/gpu/soc/hardware
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" />
   <img width="200%" src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511090627576-1588323300.gif" />
   </td>
 </tr>
