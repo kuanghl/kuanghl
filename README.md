@@ -154,6 +154,9 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511090627576-1588323300.gif" />
 
+<div align="center">
+    <img src="https://metrics.lecoq.io/kuanghl?template=classic&config.timezone=Asia%2FShanghai">
+</div>
 
 <!--   profile-green-animate -->
 ![img](./profile-3d-contrib/profile-green-animate.svg)
