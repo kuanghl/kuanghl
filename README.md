@@ -27,7 +27,7 @@
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <img src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511090514807-1769885855.svg" />
-  <img src="https://github.com/kuanghl/kuanghl/blob/master/assets/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/kuanghl/kuanghl/kuanghl/master/assets/github-contribution-grid-snake.svg" />
 </div>
 
 #  🙋 Hello
@@ -155,7 +155,7 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511090627576-1588323300.gif" />
 
-<!--   profile-green-animate -->
+<!--   profile-south-season-animate -->
 ![img](./profile-3d-contrib/profile-south-season-animate.svg)
 
 <!-- ########################################## 分割 ########################################## -->
