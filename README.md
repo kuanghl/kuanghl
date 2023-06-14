@@ -156,7 +156,7 @@
 <img width="200%" src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511090627576-1588323300.gif" />
 
 <!--   profile-south-season-animate -->
-![img](./profile-3d-contrib/profile-south-season-animate.svg)
+<img src="https://github.com/kuanghl/kuanghl/blob/master/profile-3d-contrib/profile-south-season-animate.svg" />
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://img2023.cnblogs.com/blog/2516406/202305/2516406-20230511090627576-1588323300.gif" />
