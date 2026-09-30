@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Waving banner 横幅（capsule-render） -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=160&section=header&text=Kuanghl&fontSize=52&fontAlignY=40&animation=fadeIn&fontColor=white&desc=Embedded+Software%2FHardware+%C2%B7+GPU%2FSOC%2FFPGA+%C2%B7+RTOS&descAlignY=62&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&section=header&reversal=false&text=Kuanghl&textBg=false&fontSize=70&fontAlign=50&fontAlignY=30&rotate=0&strokeWidth=0&desc=Embedded+Software%2FHardware+%C2%B7+GPU%2FSOC%2FFPGA+%C2%B7+RTOS&descSize=20&descAlign=50&descAlignY=60" width="100%" />
 
 <!-- Page view counter 访问量统计（komarev） -->
 <img src="https://komarev.com/ghpvc/?username=kuanghl&label=Views&color=2563EB&style=for-the-badge" />
